@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/clear.svg</file>
+        <file>icon/cloudy.svg</file>
+        <file>icon/cloudy_day.svg</file>
+        <file>icon/cloudy_night.svg</file>
+        <file>icon/cold.svg</file>
+        <file>icon/deluge.svg</file>
+        <file>icon/fly_ash.svg</file>
+        <file>icon/fog.svg</file>
+        <file>icon/hail.svg</file>
+        <file>icon/haze.svg</file>
+        <file>icon/night.svg</file>
+        <file>icon/rainy.svg</file>
+        <file>icon/rainy+snowy.svg</file>
+        <file>icon/sandstorm.svg</file>
+        <file>icon/snowy.svg</file>
+        <file>icon/storm.svg</file>
+        <file>icon/thunder.svg</file>
+        <file>icon/thunderstorm.svg</file>
+        <file>icon/thunderstorm+hail.svg</file>
+        <file>icon/wind.svg</file>
+        <file>icon/model/airIndex.svg</file>
+        <file>icon/model/humidity.svg</file>
+        <file>icon/model/PM2.5.svg</file>
+        <file>icon/model/windleave.svg</file>
+        <file>icon/model/search.svg</file>
+        <file>icon/model/search_hover.svg</file>
+        <file>icon/model/close.svg</file>
+        <file>icon/model/mini.svg</file>
+        <file>icon/model/24gl-minimization.svg</file>
+        <file>icon/model/Error.svg</file>
+    </qresource>
+</RCC>
